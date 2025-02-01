@@ -1,0 +1,12 @@
+# This generator script
+create_fake_history.sh
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pkl
+*.png
+*.h5
+
+# OS generated files
+.DS_Store
